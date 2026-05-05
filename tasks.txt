@@ -1,5 +1,6 @@
 task-1 i am good in git
-task-2 i am good in coding
+i am a good boy
+i am not a girl
 task-3 i am good in eating
 task-4 i am good in jumping
 
