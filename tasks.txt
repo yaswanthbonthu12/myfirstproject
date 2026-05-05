@@ -1,5 +1,5 @@
 task-1 i am good in git
 task-2 i am good in coding
-task-3 i am good in learming
-task-4 i am good in cooking
-task-5 i am good in dancing
+task-3 i am good in eating
+task-4 i am good in jumping
+
